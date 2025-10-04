@@ -12,7 +12,7 @@ body {
   width: 500px;
   height: 700px;
   background: url("backround.jpeg");
-  border: 8px solid rgb(5, 5, 5); /* outer red border */
+  border: 8px solid rgb(5, 5, 5); 
   box-sizing: border-box;
   position: relative;
   padding: 10px;
@@ -21,7 +21,7 @@ body {
 .inner-box {
   width: 100%;
   height: 100%;
-  border: 3px solid rgb(5, 5, 5); /* inner thin red line */
+  border: 3px solid rgb(5, 5, 5); 
   box-sizing: border-box;
   padding: 30px;
   position: relative;
